@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Demo project</label>
     <nameField>
-        <label>Demo project Name</label>
+        <label>Demo project Names</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
